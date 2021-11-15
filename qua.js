@@ -45,3 +45,6 @@ class QuarterGeneratot {
       return this.dates;
   }
 }
+
+console.log(QuarterGeneratot.generate("2021.12.25"))
+
